@@ -5,9 +5,9 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/karakellef/"
+    "url": "https://github.com/karakellef/karakellef.github.io"
   },
-  "homepage": "https://karakellef.com",
+  "homepage": "https://karakellef.github.io",
   "license": "GNU GPLv3",
   "scripts": {
     "start": "react-scripts start",
